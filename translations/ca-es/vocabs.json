@@ -1,66 +1,68 @@
 {
-    "/vocab/Month.voc": [
-        "Gener",
-        "Febrer",
-        "Mar\u00e7",
-        "Abril",
-        "Maig",
-        "Juny",
-        "Juliol",
-        "Agost",
-        "Setembre",
-        "Octubre",
-        "Novembre",
-        "Desembre"
-    ],
-    "/vocab/Future.voc": [
-        "ser\u00e0",
-        "des d'ara"
-    ],
-    "/vocab/Time.voc": [
-        "hora",
-        "rellotge"
-    ],
-    "/vocab/LeapYear.voc": [
-        "any de trasp\u00e0s"
-    ],
-    "/vocab/Today.voc": [
-        "avui",
-        "avui",
-        "d'avui"
-    ],
-    "/vocab/Query.voc": [
-        "(quin|quina|qu\u00e8)",
-        "(digues|digues-me|digue'm|dis-me)",
-        "(comprova|verifica|revisa)",
-        "(dona'm|d\u00f3na|dona|indica'm|indica|mostra'm|mostra)",
-        "(saps|coneixes)",
-        "quan"
-    ],
-    "/vocab/Display.voc": [
-        "mostra",
-        "mostra"
-    ],
-    "/vocab/Date.voc": [
-        "data",
-        "dia"
-    ],
-    "/vocab/RelativeDay.voc": [
-        "avui",
-        "avui",
-        "d'avui",
-        "dem\u00e0",
-        "dem\u00e0",
-        "de dem\u00e0",
-        "ahir",
-        "ahir",
-        "d'ahir",
-        "dilluns",
-        "dimarts",
-        "dimecres",
-        "dijous",
-        "divendres",
-        "dissabte",
-        "diumenge"
-    ]
+  "/vocab/Month.voc": [
+    "gener",
+    "febrer",
+    "març",
+    "abril",
+    "maig",
+    "juny",
+    "juliol",
+    "agost",
+    "setembre",
+    "octubre",
+    "novembre",
+    "desembre"
+  ],
+  "/vocab/Future.voc": [
+    "des d'ara\na partir d'ara",
+    "en\na",
+    "serà",
+    "seran"
+  ],
+  "/vocab/Time.voc": [
+    "hora",
+    "rellotge"
+  ],
+  "/vocab/LeapYear.voc": [
+    "any de traspàs"
+  ],
+  "/vocab/Today.voc": [
+    "avui",
+    "avui",
+    "d'avui"
+  ],
+  "/vocab/Query.voc": [
+    "(quin|quina|què)",
+    "(digues|digues-me|digue'm|dis-me)",
+    "(comprova|verifica|revisa)",
+    "(dona'm|dóna|dona|indica'm|indica|mostra'm|mostra)",
+    "(saps|coneixes)",
+    "quan"
+  ],
+  "/vocab/Display.voc": [
+    "mostra",
+    "mostra"
+  ],
+  "/vocab/Date.voc": [
+    "data",
+    "dia"
+  ],
+  "/vocab/RelativeDay.voc": [
+    "avui",
+    "avui",
+    "d'avui",
+    "demà",
+    "demà",
+    "de demà",
+    "ahir",
+    "ahir",
+    "d'ahir",
+    "dilluns",
+    "dimarts",
+    "dimecres",
+    "dijous",
+    "divendres",
+    "dissabte",
+    "diumenge"
+  ]
 }
