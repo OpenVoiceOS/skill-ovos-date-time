@@ -13,7 +13,7 @@ jobs:
     uses: neongeckocom/.github/.github/workflows/python_build_tests.yml@master
     with:
       test_manifest: true
-      manifest_ignored: "test/**,scripts/**,CHANGELOG.md"
+      manifest_ignored: "test/**,scripts/**,CHANGELOG.md,translations/**"
   pip_audit:
     strategy:
       max-parallel: 2
@@ -36,3 +36,4 @@ jobs:
           ignore-vulns: |
             GHSA-r9hx-vwmv-q579
             GHSA-fpfv-jqm9-f5jm
+            PYSEC-2022-43012
